@@ -6,7 +6,7 @@ export default function Footer({ areaName }: { areaName?: string }) {
       <div className="footer-grid">
         <div className="footer-brand">
           <Link className="nav-logo" href="/" style={{ marginBottom: 12 }}>
-            <div className="logo-icon">🦷</div>
+            <img src="/teeth_logo.jpeg" alt="Osmani Dental Aid" className="logo-icon" style={{ objectFit: "cover" }} />
             <div className="logo-text">
               <span className="logo-name">Osmani Dental Aid</span>
               <span className="logo-sub">Prof. Dr. Shibbir Osmani</span>

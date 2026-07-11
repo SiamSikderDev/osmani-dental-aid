@@ -31,7 +31,7 @@ export default function Navbar() {
     <>
       <nav style={{ boxShadow: navShadow ? "0 8px 40px rgba(0,0,0,0.5)" : "none" }}>
         <Link className="nav-logo" href="/">
-          <div className="logo-icon">🦷</div>
+          <img src="/teeth_logo.jpeg" alt="Osmani Dental Aid" className="logo-icon" style={{ objectFit: "cover" }} />
           <div className="logo-text">
             <span className="logo-name">Osmani Dental Aid</span>
             <span className="logo-sub">Prof. Dr. Shibbir Osmani</span>

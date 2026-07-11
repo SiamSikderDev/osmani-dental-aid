@@ -21,6 +21,9 @@ export const metadata: Metadata = {
     "Osmani Dental Aid — led by Professor Dr. Shibbir Osmani, Ex Vice Principal of Dhaka Dental College. 30+ years of trusted dental care in Dhanmondi. Root canal, implants, cosmetic dentistry & emergency care.",
   keywords:
     "dentist near me, dental clinic Dhanmondi, best dentist Dhanmondi, Professor Dr Shibbir Osmani, dental implants Dhaka, cosmetic dentistry Dhanmondi, root canal Dhanmondi, teeth scaling near me",
+  icons: {
+    icon: "/teeth_logo.jpeg",
+  },
   openGraph: {
     title:
       "Osmani Dental Aid | Prof. Dr. Shibbir Osmani — Best Dentist in Dhanmondi",
